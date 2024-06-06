@@ -1,0 +1,14 @@
+{
+    "name": "YOUR_NFT_NAME",
+    "symbol": "SYMBOL",
+    "description": "DESCRIPTION",
+    "seller_fee_basis_points": 1,
+    "metadata_url": "METADATA_URL",
+    "creators": [
+        {
+            "address": "CREATOR_ADDRESS",
+            "share": 100
+        }
+    ],
+    "network": "devnet"
+}
